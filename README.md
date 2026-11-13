@@ -14,11 +14,11 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-yusufalcicek.me-111111?style=for-the-badge&logo=googlechrome&logoColor=61DAFB)](https://www.yusufalcicek.me/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-yusufalcicek.me-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yusufalcicek.me/)
 [![Email](https://img.shields.io/badge/EMAIL-yusufalcicekdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufalcicekdev@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=MachineX41&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/MachineX41)
-[![Followers](https://img.shields.io/github/followers/MachineX41?style=for-the-badge&label=FOLLOWERS&color=238636&logo=github&logoColor=white)](https://github.com/MachineX41?tab=followers)
-[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMachineX41&query=%24.public_repos&label=REPOS&style=for-the-badge&color=8957E5)](https://github.com/MachineX41?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=MachineX41&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS)](https://github.com/MachineX41)
+[![Followers](https://img.shields.io/github/followers/MachineX41?style=for-the-badge&label=FOLLOWERS&color=16A34A&logo=github&logoColor=white)](https://github.com/MachineX41?tab=followers)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMachineX41&query=%24.public_repos&label=REPOS&style=for-the-badge&color=7C3AED&logo=github&logoColor=white)](https://github.com/MachineX41?tab=repositories)
 
 </div>
 
@@ -26,31 +26,29 @@
 
 ## About
 
-The same story as on [yusufalcicek.me](https://www.yusufalcicek.me/#about).
-
 <table>
 <tr>
-<td width="60%" valign="top">
-Computer engineering student at Kocaeli University. I back the coursework with real products: web, desktop, and database systems, and more recently mobile and macOS.
+<td width="62%" valign="top">
+<strong>Full stack, from the interface inward.</strong>
 <br><br>
-I treat functionality, performance, and the interface as one job. On the frontend that means a simple screen, a clean architecture, and code the next person can still read.
+Computer engineering at <a href="https://www.yusufalcicek.me/#about">Kocaeli University</a>. I ship web, mobile, and desktop products, and I count the screen, the architecture, and the performance as one piece of work.
 <br><br>
-I follow the tools closely, and I treat learning as part of the work, not a pause from it.
+The path was short and deliberate. C first, for the habit of thinking a problem through. Then React and the web. Then products that leave the browser: desktop, mobile, macOS. Learning stays part of the job.
 </td>
-<td width="40%" valign="top">
+<td width="38%" valign="top">
 <strong>Education</strong><br>
-Kocaeli University<br>
-Computer Engineering, B.Sc.<br>
+Kocaeli University · B.Sc. Computer Engineering<br>
 October 2023 — Present
 <br><br>
 <strong>Experience</strong><br>
-TNC Group, Software Development Intern<br>
-Software Persona, Software Development Intern
+TNC Group · Software Development Intern<br>
+Software Persona · Software Development Intern
 <br><br>
-<strong>How I work</strong><br>
-Clean code · Scalable architecture<br>
-User-centered design · Performance<br>
-Continuous improvement
+<strong>On every project</strong><br>
+<img alt="Clean code" src="https://img.shields.io/badge/Clean_code-0EA5E9?style=flat-square&logo=codefactor&logoColor=white">
+<img alt="Scalable" src="https://img.shields.io/badge/Scalable-F59E0B?style=flat-square&logo=rocket&logoColor=111111">
+<img alt="User first" src="https://img.shields.io/badge/User_first-A259FF?style=flat-square&logo=figma&logoColor=white">
+<img alt="Performance" src="https://img.shields.io/badge/Performance-16A34A?style=flat-square&logo=speedtest&logoColor=white">
 </td>
 </tr>
 </table>
@@ -63,7 +61,7 @@ Logos for the tools on the site, plus Swift and Flutter from the shipped apps.
 
 <div align="center">
 
-<img alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Python, Node.js, FastAPI, Flask, Flutter, Swift, Java, C, MySQL, Git, Figma" src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,python,nodejs,fastapi,flask,flutter,swift,java,c,mysql,git,figma&perline=6" width="820" />
+<img alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Python, Node.js, FastAPI, Flask, Flutter, Swift, Java, C, MySQL, Git, Figma" src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,python,nodejs,fastapi,flask,flutter,swift,java,c,mysql,git,figma&perline=9" width="520" />
 
 </div>
 
