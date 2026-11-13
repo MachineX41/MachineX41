@@ -128,7 +128,7 @@ Also public: [WarriorCards](https://github.com/MachineX41/WarriorCards), a Java 
 
 ## Activity
 
-The panels are rendered from the GitHub API by [metrics](https://github.com/lowlighter/metrics): a full-year calendar, languages, habits, and recent activity. They refresh on a schedule. Profile views count each time this page is opened.
+The panel is rendered from the GitHub API by [metrics](https://github.com/lowlighter/metrics): language share and a full-year calendar, refreshed on a schedule. Profile views count each time this page is opened.
 
 <div align="center">
 
