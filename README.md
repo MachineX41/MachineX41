@@ -132,7 +132,7 @@ The panels are rendered from the GitHub API by [metrics](https://github.com/lowl
 
 <div align="center">
 
-<img alt="GitHub metrics" src="metrics.svg" />
+<img alt="GitHub metrics" src="metrics.png" />
 
 <br>
 
