@@ -12,9 +12,6 @@
 
 **adım adım daha iyisi.**
 
-Computer engineering student at Kocaeli University, building since May 2024.
-Web, mobile, and desktop products, with the interface and the architecture treated as one job.
-
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-yusufalcicek.me-111111?style=for-the-badge&logo=googlechrome&logoColor=61DAFB)](https://www.yusufalcicek.me/)
@@ -22,6 +19,51 @@ Web, mobile, and desktop products, with the interface and the architecture treat
 [![Profile views](https://komarev.com/ghpvc/?username=MachineX41&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/MachineX41)
 [![Followers](https://img.shields.io/github/followers/MachineX41?style=for-the-badge&label=FOLLOWERS&color=238636&logo=github&logoColor=white)](https://github.com/MachineX41?tab=followers)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMachineX41&query=%24.public_repos&label=REPOS&style=for-the-badge&color=8957E5)](https://github.com/MachineX41?tab=repositories)
+
+</div>
+
+<br>
+
+## About
+
+The same story as on [yusufalcicek.me](https://www.yusufalcicek.me/#about).
+
+<table>
+<tr>
+<td width="60%" valign="top">
+Computer engineering student at Kocaeli University. I back the coursework with real products: web, desktop, and database systems, and more recently mobile and macOS.
+<br><br>
+I treat functionality, performance, and the interface as one job. On the frontend that means a simple screen, a clean architecture, and code the next person can still read.
+<br><br>
+I follow the tools closely, and I treat learning as part of the work, not a pause from it.
+</td>
+<td width="40%" valign="top">
+<strong>Education</strong><br>
+Kocaeli University<br>
+Computer Engineering, B.Sc.<br>
+October 2023 — Present
+<br><br>
+<strong>Experience</strong><br>
+TNC Group, Software Development Intern<br>
+Software Persona, Software Development Intern
+<br><br>
+<strong>How I work</strong><br>
+Clean code · Scalable architecture<br>
+User-centered design · Performance<br>
+Continuous improvement
+</td>
+</tr>
+</table>
+
+<br>
+
+## Stack
+
+Logos for the tools on the site, plus Swift and Flutter from the shipped apps.
+
+<div align="center">
+
+<img alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Python, Node.js, FastAPI, Flask, Flutter, Swift, Java, C, MySQL, Git, Figma" src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,python,nodejs,fastapi,flask,flutter,swift,java,c,mysql,git,figma&perline=6" width="820" />
 
 </div>
 
@@ -102,16 +144,6 @@ Academic collaboration as a graph: authors as nodes, shared papers as edges.
 </table>
 
 Also public: [WarriorCards](https://github.com/MachineX41/WarriorCards), a Java strategy card game, and a small [rate limiting and CORS demo](https://github.com/MachineX41/API-Gu-venlig-i-Rate-Limiting-CORS-demo).
-
-<br>
-
-## Stack
-
-<div align="center">
-
-<img alt="Stack" src="stack.svg" width="900" />
-
-</div>
 
 <br>
 
