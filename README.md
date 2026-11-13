@@ -109,26 +109,30 @@ Also public: [WarriorCards](https://github.com/MachineX41/WarriorCards), a Java 
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,python,fastapi,nodejs,flutter,swift,java,git&theme=dark)](https://www.yusufalcicek.me/)
+<img alt="React" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img alt="Vite" src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
+<img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=02569B">
+<img alt="Swift" src="https://img.shields.io/badge/Swift-111111?style=flat-square&logo=swift&logoColor=F05138">
+<img alt="Java" src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032">
 
 </div>
-
-React, TypeScript, and Python on the web. Flutter and Swift for mobile and macOS. FastAPI when a project needs its own backend.
 
 <br>
 
 ## Activity
 
-Counts below are read from GitHub, not typed in. The year graph is rebuilt every day from the public contribution history. Profile views count each time this page is opened.
+The panels are rendered from the GitHub API by [metrics](https://github.com/lowlighter/metrics): a full-year calendar, languages, habits, and recent activity. They refresh on a schedule. Profile views count each time this page is opened.
 
 <div align="center">
 
-<img height="165" alt="GitHub activity" src="https://github-readme-stats-one-bice.vercel.app/api?username=MachineX41&show_icons=true&hide_border=true&hide=stars,issues&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&custom_title=This%20year" />
-<img height="165" alt="Languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MachineX41&theme=github_dark" />
-
-<br>
-
-<img alt="Commits by hour, UTC+3" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MachineX41&theme=github_dark&utcOffset=3" />
+<img alt="GitHub metrics" src="metrics.svg" />
 
 <br>
 
